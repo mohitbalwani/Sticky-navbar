@@ -86,7 +86,7 @@ nav ul li:hover{
     width: 80vw;
     margin: auto;
     display: flex;
-    flex-direction: column;
+    justify-content: space-around;
 }
 
 .container2 h3{
